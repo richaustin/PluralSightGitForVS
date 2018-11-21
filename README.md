@@ -1,0 +1,2 @@
+# PluralSightGitForVS
+PluralSightGitForVS
